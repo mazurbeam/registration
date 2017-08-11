@@ -12,7 +12,8 @@ import { HttpModule } from '@angular/http'
     RegistrationComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
